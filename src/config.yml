@@ -1,0 +1,7 @@
+###   CustomWhiteListMessage Config   ###
+### Nutze '&', um Farben zu verwenden ###
+message:
+  - '&7----------------------------'
+  - '&e       Der Server ist'
+  - '&e     zurzeit in Wartung'
+  - '&7----------------------------'
